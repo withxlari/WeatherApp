@@ -7,3 +7,9 @@ This is a simple weather forecast application developed in JavaScript. The app c
 - **Real-time Data:** Utilizes the OpenWeatherMap API for accurate and up-to-date weather information.
 - **City-wise Forecast:** Get weather details for different cities globally.
 - **Responsive Design:** Ensures a seamless experience across various devices.
+
+## Technologies Used
+
+- **HTML:**
+- **CSS:** 
+- **JavaScript:**
